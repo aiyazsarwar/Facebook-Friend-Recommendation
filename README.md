@@ -26,5 +26,7 @@ No low-latency requirement.
 Probability of prediction is useful to recommend highest probability links
 
 Performance metric for supervised learning:
+
 Both precision and recall is important so F1 score is good choice
+
 Confusion matrix
