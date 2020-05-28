@@ -19,9 +19,12 @@ Some reference papers and videos :
 https://www.cs.cornell.edu/home/kleinber/link-pred.pdf
 https://www3.nd.edu/~dial/publications/lichtenwalter2010new.pdf
 https://www.youtube.com/watch?v=2M77Hgy17cg
+
 Business objectives and constraints:
 No low-latency requirement.
-Probability of prediction is useful to recommend ighest probability links
+
+Probability of prediction is useful to recommend highest probability links
+
 Performance metric for supervised learning:
 Both precision and recall is important so F1 score is good choice
 Confusion matrix
